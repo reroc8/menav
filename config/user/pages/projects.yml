@@ -8,12 +8,8 @@ categories:
     sites:
       - name: nav
         icon: fab fa-github
-        description: 个人导航站点 - 基于 发现导航 构建的轻量级网址导航
-        url: https://github.com/reroc8/nav
-      - name: menav
-        icon: fab fa-github
         description: 个人导航站 - 基于 MeNav 构建，YAML 配置，自动渲染部署
-        url: https://github.com/reroc8/menav
+        url: https://github.com/reroc8/nav
 
   - name: 关注项目
     icon: fas fa-star
