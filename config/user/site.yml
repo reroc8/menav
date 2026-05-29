@@ -1,9 +1,9 @@
 # 网站基本信息
-title: Reroc8
-description: Reroc8 个人导航 · 收录常用开发工具与项目链接
+title: ROC
+description: 个人导航 · 开发工具 & 资源收录
 author: reroc8
 favicon: menav.svg
-logo_text: Reroc8
+logo_text: ROC
 
 icons:
   mode: favicon
@@ -20,8 +20,8 @@ fonts:
   weight: normal
 
 profile:
-  title: Hello,
-  subtitle: Welcome to My Navigation
+  title: Hey,
+  subtitle: 探索无界
 
 github:
   username: 'reroc8'
