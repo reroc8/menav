@@ -1,0 +1,49 @@
+# 网站基本信息
+title: Reroc8
+description: 个人导航站 · 收录常用开发工具与项目链接
+author: reroc8
+favicon: menav.svg
+logo_text: Reroc8
+
+icons:
+  mode: favicon
+  region: cn
+
+theme:
+  mode: system
+
+fonts:
+  source: css
+  cssUrl: 'https://fontsapi.zeoseven.com/292/main/result.css'
+  preload: true
+  family: LXGW WenKai
+  weight: normal
+
+profile:
+  title: Hello,
+  subtitle: Welcome to My Navigation
+
+github:
+  username: 'reroc8'
+  heatmapColor: 37b24d
+  cacheDir: dev
+
+social:
+  - name: GitHub
+    url: https://github.com/reroc8
+    icon: fab fa-github
+  - name: Email
+    url: mailto:reroc8@gmail.com
+    icon: fas fa-envelope
+
+# 导航：常用 | 项目 | 关于
+navigation:
+  - name: 常用
+    icon: fas fa-star
+    id: common
+  - name: 项目
+    icon: fas fa-project-diagram
+    id: projects
+  - name: 关于
+    icon: fas fa-file-alt
+    id: content

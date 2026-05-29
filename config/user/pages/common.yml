@@ -1,0 +1,136 @@
+title: 常用网站
+subtitle: 收录日常使用的开发工具与资源
+template: page
+
+categories:
+  - name: AI 助手
+    icon: fas fa-robot
+    sites:
+      - name: ChatGPT
+        url: https://chat.openai.com
+        icon: fas fa-robot
+        description: OpenAI 对话助手
+      - name: Claude
+        url: https://claude.ai
+        icon: fas fa-comments
+        description: Anthropic AI 助手
+      - name: DeepSeek
+        url: https://chat.deepseek.com
+        icon: fas fa-brain
+        description: 深度求索 AI 对话
+      - name: Gemini
+        url: https://gemini.google.com
+        icon: fas fa-gem
+        description: Google AI 助手
+
+  - name: AI 编程
+    icon: fas fa-code
+    sites:
+      - name: GitHub Copilot
+        url: https://github.com/features/copilot
+        icon: fab fa-github
+        description: AI 编程助手
+      - name: Codex
+        url: https://github.com/openai/codex
+        icon: fas fa-terminal
+        description: OpenAI 终端编程
+      - name: Cursor
+        url: https://cursor.sh
+        icon: fas fa-pen
+        description: AI-first 编辑器
+      - name: CodeWhale
+        url: https://deepseek.com
+        icon: fas fa-water
+        description: DeepSeek 终端 Agent
+
+  - name: 前端开发
+    icon: fas fa-laptop-code
+    sites:
+      - name: React
+        url: https://react.dev
+        icon: fab fa-react
+        description: Facebook 前端框架
+      - name: Vue.js
+        url: https://vuejs.org
+        icon: fab fa-vuejs
+        description: 渐进式前端框架
+      - name: Next.js
+        url: https://nextjs.org
+        icon: fas fa-globe
+        description: React 全栈框架
+      - name: Tailwind CSS
+        url: https://tailwindcss.com
+        icon: fas fa-wind
+        description: 实用优先 CSS 框架
+      - name: Vite
+        url: https://vitejs.dev
+        icon: fas fa-bolt
+        description: 前端构建工具
+      - name: MDN
+        url: https://developer.mozilla.org
+        icon: fas fa-book
+        description: Web 技术文档
+
+  - name: 云平台
+    icon: fas fa-cloud
+    sites:
+      - name: Vercel
+        url: https://vercel.com
+        icon: fas fa-triangle
+        description: 前端部署平台
+      - name: Cloudflare
+        url: https://www.cloudflare.com
+        icon: fas fa-cloud
+        description: CDN & 边缘计算
+      - name: Netlify
+        url: https://www.netlify.com
+        icon: fas fa-globe
+        description: 静态网站托管
+      - name: Railway
+        url: https://railway.app
+        icon: fas fa-train
+        description: 全栈部署平台
+
+  - name: 学习 & 文档
+    icon: fas fa-graduation-cap
+    sites:
+      - name: DevDocs
+        url: https://devdocs.io
+        icon: fas fa-file-code
+        description: 聚合 API 文档
+      - name: Can I Use
+        url: https://caniuse.com
+        icon: fas fa-browser
+        description: 浏览器兼容性查询
+      - name: 掘金
+        url: https://juejin.cn
+        icon: fas fa-book-open
+        description: 中文技术社区
+      - name: LeetCode
+        url: https://leetcode.cn
+        icon: fas fa-code
+        description: 算法练习平台
+
+  - name: 效率工具
+    icon: fas fa-wrench
+    sites:
+      - name: Notion
+        url: https://notion.so
+        icon: fas fa-note-sticky
+        description: 全能笔记工具
+      - name: 飞书
+        url: https://feishu.cn
+        icon: fas fa-feather
+        description: 协作办公平台
+      - name: Figma
+        url: https://www.figma.com
+        icon: fab fa-figma
+        description: 在线设计工具
+      - name: GitHub
+        url: https://github.com
+        icon: fab fa-github
+        description: 代码托管平台
+      - name: Unsplash
+        url: https://unsplash.com
+        icon: fas fa-image
+        description: 免费高清图片
