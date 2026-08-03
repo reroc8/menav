@@ -49,13 +49,13 @@
     "zod": "^4.4.3"
   },
   "devDependencies": {
-    "@astrojs/check": "^0.9.9",
+    "@astrojs/check": "^0.9.10",
     "@types/node": "^25.9.3",
     "astro": "^6.4.8",
     "esbuild": "^0.28.1",
     "husky": "^9.1.7",
     "lint-staged": "^17.2.0",
-    "playwright": "^1.62.0",
+    "playwright": "^1.62.1",
     "prettier": "^3.9.6",
     "prettier-plugin-astro": "^0.14.1",
     "serve": "^14.2.6"
